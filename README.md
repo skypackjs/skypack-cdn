@@ -1,2 +1,2 @@
 # cdn
-An issue tracker for the CDN
+An issue tracker for Pika CDN: https://cdn.pika.dev/
